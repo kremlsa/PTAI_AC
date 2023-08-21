@@ -1,0 +1,12 @@
+[
+  {
+  "username": "testUser1",
+  "unit": "testUnit1",
+  "role": "testRole1"
+  },
+  {
+  "username": "testUser2",
+  "unit": "testUnit2",
+  "role": "testRole2"
+  }
+]
